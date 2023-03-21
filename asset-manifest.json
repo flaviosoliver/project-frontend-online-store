@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project-frontend-online-store/static/css/main.0662afa8.chunk.css",
+    "main.js": "/project-frontend-online-store/static/js/main.04329580.chunk.js",
+    "main.js.map": "/project-frontend-online-store/static/js/main.04329580.chunk.js.map",
+    "runtime-main.js": "/project-frontend-online-store/static/js/runtime-main.95a35047.js",
+    "runtime-main.js.map": "/project-frontend-online-store/static/js/runtime-main.95a35047.js.map",
+    "static/js/2.274461be.chunk.js": "/project-frontend-online-store/static/js/2.274461be.chunk.js",
+    "static/js/2.274461be.chunk.js.map": "/project-frontend-online-store/static/js/2.274461be.chunk.js.map",
+    "index.html": "/project-frontend-online-store/index.html",
+    "precache-manifest.914af9fc53034b11df7898f83e141d38.js": "/project-frontend-online-store/precache-manifest.914af9fc53034b11df7898f83e141d38.js",
+    "service-worker.js": "/project-frontend-online-store/service-worker.js",
+    "static/css/main.0662afa8.chunk.css.map": "/project-frontend-online-store/static/css/main.0662afa8.chunk.css.map",
+    "static/js/2.274461be.chunk.js.LICENSE.txt": "/project-frontend-online-store/static/js/2.274461be.chunk.js.LICENSE.txt",
+    "static/media/mercadolivre.png": "/project-frontend-online-store/static/media/mercadolivre.0d01d268.png",
+    "static/media/quindimshop.png": "/project-frontend-online-store/static/media/quindimshop.f24705c0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95a35047.js",
+    "static/js/2.274461be.chunk.js",
+    "static/css/main.0662afa8.chunk.css",
+    "static/js/main.04329580.chunk.js"
+  ]
+}
